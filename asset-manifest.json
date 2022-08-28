@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toBeDeployed/static/js/main.c4e2184b.js",
+    "index.html": "/toBeDeployed/index.html",
+    "main.c4e2184b.js.map": "/toBeDeployed/static/js/main.c4e2184b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4e2184b.js"
+  ]
+}
